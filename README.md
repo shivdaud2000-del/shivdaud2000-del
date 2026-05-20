@@ -4,7 +4,7 @@
 
 👋 Hi! I’m Shivranjani Daud  
 
-📊 Aspiring Data Analyst skilled in Python, SQL, Power BI, and Excel  
+📊 Data Analyst skilled in Python, SQL, Power BI, and Excel  
 
 📈 Strong foundation in data analysis, visualization, and database management  
 
